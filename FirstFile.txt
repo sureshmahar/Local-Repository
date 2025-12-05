@@ -3,5 +3,11 @@ This is a text file.
 This is modified.
 
 This file is modified in repo.
+<<<<<<< HEAD
  
  This file is modified in local repo.
+=======
+
+
+again modified.
+>>>>>>> origin/main
